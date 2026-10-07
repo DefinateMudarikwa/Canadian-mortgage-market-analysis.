@@ -16,7 +16,7 @@ The report is intended for banking, market research, and BI analysts exploring a
 
 Tracks monthly outstanding balances and weighted interest rates. Summary cards display the latest available reporting month within the selected period.
 
-![Mortgage Market Overview](Images/mortgage-overview.png)
+![Mortgage Market Overview](Images/mortgage-overview.png.png)
 
 ### Mortgage Type Comparison
 
@@ -24,7 +24,7 @@ Compares weighted fixed and variable mortgage rates and displays their differenc
 
 The Year slicer controls the reporting period. The Rate Type slicer changes the chart series while preserving the comparison cards.
 
-![Mortgage Type Comparison](Images/mortgage-type-comparison.png)
+![Mortgage Type Comparison](Images/mortgage%20type%20comparison.png.png)
 
 ## Key Findings
 
